@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm İsmail</h1>
 <h3 align="center">As a 3rd-year computer engineering student, I am passionate about mobile development. I am honing my skills by building cross-platform applications with Flutter and Dart, as well as native applications using Swift.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ismail036&label=Profile%20views&color=0e75b6&style=flat" alt="ismail036" /> </p>
-
 
 - 🔭 I’m currently working on **mobile application development**
 
