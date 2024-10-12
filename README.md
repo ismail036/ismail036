@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail</h1>
-<h3 align="center">As a final-year computer engineering student with a passion for full-stack development, I am continuously developing my skills in both frontend and backend technologies such as React, ReactNative, Django, .Net Core</h3>
+<h3 align="center">As a final-year computer engineering student with a passion for full-stack development, I am continuously developing my skills in both frontend and backend technologies such as React, ReactNative, Django and .Net Core</h3>
 
 
 - 🔭 I’m currently working on **mobile application development**
