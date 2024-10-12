@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İsmail</h1>
-<h3 align="center">As a 3rd-year computer engineering student, I am passionate about mobile development. I am honing my skills by building cross-platform applications with Flutter and Dart, as well as native applications using Swift.</h3>
+<h3 align="center">As a final-year computer engineering student with a passion for full-stack development, I am continuously developing my skills in both frontend and backend technologies such as React, ReactNative, Django, .Net Core</h3>
 
 
 - 🔭 I’m currently working on **mobile application development**
