@@ -2,9 +2,10 @@
 <h3 align="center">As a final-year computer engineering student with a passion for full-stack development, I am continuously developing my skills in both frontend and backend technologies such as React, ReactNative, Django and .Net Core</h3>
 
 
-- 🔭 I’m currently working on **mobile application development**
+- 🔭 I’m currently working on **full-stack development**, focusing on both **frontend** and **backend** technologies.
 
-- 🌱 I’m currently learning **Flutter and Swift for mobile development**
+- 🌱 I’m continuously improving my skills in **React**, **React Native**, **Django**, and **.NET Core** to build **scalable and efficient solutions**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
