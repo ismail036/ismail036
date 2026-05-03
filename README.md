@@ -79,44 +79,60 @@ AI-powered interior design mobile application.
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".net" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="45" height="45" alt="React Native" />
+      <br>React Native
+    </td>
+    <td align="center" width="70">
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="45" height="45" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="45" height="45" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="70">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="45" height="45" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" alt=".NET" />
+      <br>.NET
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="45" height="45" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="70">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="70">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub" />
+      <br>GitHub
+    </td>
+  </tr>
+</table>
 
 ---
 
